@@ -57,11 +57,9 @@ I enjoy turning complex problems into clean, maintainable solutions.
   <a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="height:50px; width:50px; margin:10px;" alt="GitHub Logo"/></a>
   <a href="https://about.gitlab.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" style="height:50px; width:50px; margin:10px;" alt="GitLab Logo"/></a>
   <a href="https://getcomposer.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" style="height:50px; width:50px; margin:10px;" alt="Composer Logo"/></a>
-    <br/>
   <a href="https://www.npmjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" style="height:50px; width:50px; margin:10px;" alt="NPM Logo"/></a>
   <a href="https://www.postman.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" style="height:50px; width:50px; margin:10px;" alt="Postman Logo"/></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="height:50px; width:50px; margin:10px;" alt="Linux Logo"/></a>
-<br/>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="height:50px; width:50px; margin:10px;" alt="VSCode Logo"/></a>
   <a href="https://www.jetbrains.com/phpstorm/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" style="height:50px; width:50px; margin:10px;" alt="PHPStorm Logo"/></a>
 </p>
