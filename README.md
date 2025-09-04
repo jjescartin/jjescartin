@@ -41,7 +41,11 @@ I enjoy turning complex problems into clean, maintainable solutions.
 <p align="center">
   <a href="https://react.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height:60px; width:60px; margin:10px;" alt="React Logo"/></a>
   <a href="https://jquery.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" style="height:60px; width:60px; margin:10px;" alt="jQuery Logo"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX" target="_blank"><img src="https://cdn.simpleicons.org/ajax/007FFF" style="height:60px; width:60px; margin:10px;" alt="AJAX Logo"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" 
+       style="height:60px; width:60px; margin:10px; object-fit:contain;" 
+       alt="AJAX Logo"/>
+  </a>
   <a href="https://www.json.org/" target="_blank"><img src="https://cdn.simpleicons.org/json/000000" style="height:60px; width:60px; margin:10px;" alt="JSON Logo"/></a>
 </p>
 
