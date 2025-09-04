@@ -2,14 +2,12 @@
 
 # 👋 Hi, I'm Allen  
 
-💻 **Fullstack Web Developer**  
+💻 *Fullstack Web Developer**  
 
 I have 4+ years of experience building scalable web apps, APIs, and dashboards.  
 I enjoy turning complex problems into clean, maintainable solutions.  
 
-<hr>
-
-### 🛠 Skills & Technologies  
+# 🛠 Skills & Technologies  
 
 <hr>
 #### 📝 Programming Languages  
