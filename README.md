@@ -9,7 +9,7 @@ I enjoy turning complex problems into clean, maintainable solutions.
 
 <br/><br/>
 
-## 🛠 Skills & Technologies  
+### 🛠 Skills & Technologies  
 
 #### 📝 Programming Languages  
 <p align="center"> 
