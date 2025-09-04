@@ -7,6 +7,7 @@
 I have 4+ years of experience building scalable web apps, APIs, and dashboards.  
 I enjoy turning complex problems into clean, maintainable solutions.  
 
+<hr style="width: 100px; margin: 40px 0; border: 1px solid #ccc;">
 
 ### 🛠 Skills & Technologies  
 
