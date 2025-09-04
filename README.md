@@ -14,9 +14,11 @@ I enjoy turning complex problems into clean, maintainable solutions.
 #### 📝 Programming Languages  
 <p align="center"> 
   <a href="https://www.php.net/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="height:50px; width:50px; margin:30px;" alt="PHP Logo"/></a> 
+  &nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height:50px; width:50px; margin:10px;" alt="JavaScript Logo"/></a> 
   <a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="height:50px; width:50px; margin:30px;" alt="Java Logo"/></a> 
-  <a href="https://isocpp.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="height:50px; width:50px; margin:30px;" alt="C++ Logo"/></a> <br/> 
+  &nbsp;&nbsp;
+  <a href="https://isocpp.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="height:50px; width:50px; margin:30px;" alt="C++ Logo"/></a> &nbsp;&nbsp;<br/> 
   <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" style="height:50px; width:50px; margin:30px;" alt=".NET Logo"/></a> 
   <a href="https://en.wikipedia.org/wiki/SQL" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="height:50px; width:50px; margin:30px;" alt="SQL Logo"/></a> 
 </p>
