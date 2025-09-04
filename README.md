@@ -12,34 +12,20 @@ I enjoy turning complex problems into clean, maintainable solutions.
 ### 🛠 Skills & Technologies  
 
 #### 📝 Programming Languages  
-<div align="center" style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px;">
-  <a href="https://www.php.net/" target="_blank">
-    <img src="https://www.php.net/images/logos/php-logo.svg" 
-         style="height:40px; width:40px; object-fit:contain;" alt="PHP Logo"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" 
-         style="height:40px; width:40px; object-fit:contain;" alt="JavaScript Logo"/>
-  </a>
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" 
-         style="height:40px; width:40px; object-fit:contain;" alt="Java Logo"/>
-  </a>
-  <a href="https://isocpp.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" 
-         style="height:40px; width:40px; object-fit:contain;" alt="C++ Logo"/>
-  </a>
-</div>
+<p align="center">
+  <a href="https://www.php.net/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="height:60px; width:60px; margin:10px;" alt="PHP Logo"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height:60px; width:60px; margin:10px;" alt="JavaScript Logo"/></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="height:60px; width:60px; margin:10px;" alt="Java Logo"/></a>
+  <a href="https://isocpp.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="height:60px; width:60px; margin:10px;" alt="C++ Logo"/></a>
+  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" style="height:60px; width:60px; margin:10px;" alt=".NET Logo"/></a>
+  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="height:60px; width:60px; margin:10px;" alt="SQL Logo"/></a>
+</p>
 
 #### 🎨 Markup & Styling  
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height:60px; width:60px; margin:10px;" alt="HTML5 Logo"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height:60px; width:60px; margin:10px;" alt="CSS3 Logo"/></a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" 
-       style="height:60px; width:60px; margin:10px; object-fit:contain;" 
-       alt="Tailwind CSS Logo"/>
-  </a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="height:60px; width:60px; margin:10px;" alt="Tailwind Logo"/></a>
   <a href="https://getbootstrap.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="height:60px; width:60px; margin:10px;" alt="Bootstrap Logo"/></a>
 </p>
 
@@ -55,11 +41,7 @@ I enjoy turning complex problems into clean, maintainable solutions.
 <p align="center">
   <a href="https://react.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height:60px; width:60px; margin:10px;" alt="React Logo"/></a>
   <a href="https://jquery.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" style="height:60px; width:60px; margin:10px;" alt="jQuery Logo"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" 
-       style="height:60px; width:60px; margin:10px; object-fit:contain;" 
-       alt="AJAX Logo"/>
-  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX" target="_blank"><img src="https://cdn.simpleicons.org/ajax/007FFF" style="height:60px; width:60px; margin:10px;" alt="AJAX Logo"/></a>
   <a href="https://www.json.org/" target="_blank"><img src="https://cdn.simpleicons.org/json/000000" style="height:60px; width:60px; margin:10px;" alt="JSON Logo"/></a>
 </p>
 
