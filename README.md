@@ -12,59 +12,55 @@ I enjoy turning complex problems into clean, maintainable solutions.
 ### 🛠 Skills & Technologies  
 
 #### 📝 Programming Languages  
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-003B57?logo=database&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white" />
+<p align="center">
+  <a href="https://www.php.net/" target="_blank"><img src="https://www.php.net/images/logos/php-logo.svg" height="60" alt="PHP Logo" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="60" alt="JavaScript Logo" /></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" height="60" alt="Java Logo" /></a>
+  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank"><img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" height="60" alt="SQL Logo" /></a>
+  <a href="https://isocpp.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="60" alt="C++ Logo" /></a>
+  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" height="60" alt=".NET Logo" /></a>
 </p>
 
 #### 🎨 Markup & Styling  
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" />
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="60" alt="HTML5 Logo" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="60" alt="CSS3 Logo" /></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="60" alt="Tailwind Logo" /></a>
+  <a href="https://getbootstrap.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height="60" alt="Bootstrap Logo" /></a>
 </p>
 
-#### ⚙️ Backend Frameworks & Technologies  
-<p>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?logo=codeigniter&logoColor=white" />
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/API-Development-005571?logo=swagger&logoColor=white" />
-  <img src="https://img.shields.io/badge/Eloquent-ORM-FF2D20?logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/MVC-Architecture-blue" />
-  <img src="https://img.shields.io/badge/Blade-Templating-orange" />
+#### ⚙️ Backend Frameworks & Tools  
+<p align="center">
+  <a href="https://laravel.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" height="60" alt="Laravel Logo" /></a>
+  <a href="https://codeigniter.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/CodeIgniter.svg" height="60" alt="CodeIgniter Logo" /></a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://spring.io/images/projects/spring-boot-7f2e24fb962501672cc91ccd285ed2ba.svg" height="60" alt="Spring Boot Logo" /></a>
+  <a href="https://swagger.io/" target="_blank"><img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" height="60" alt="Swagger Logo" /></a>
 </p>
 
 #### 🎨 Frontend Libraries & Tools  
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/AJAX-007ACC?logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white" />
-  <img src="https://img.shields.io/badge/Responsive-Design-FF4088?logo=responsive&logoColor=white" />
+<p align="center">
+  <a href="https://react.dev/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="60" alt="React Logo" /></a>
+  <a href="https://jquery.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/JQuery_logo_text.svg" height="60" alt="jQuery Logo" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ajax-logo-icon.svg" height="60" alt="AJAX Logo" /></a>
+  <a href="https://www.json.org/" target="_blank"><img src="https://www.svgrepo.com/show/373951/json.svg" height="60" alt="JSON Logo" /></a>
 </p>
 
 #### 🗄️ Databases  
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+<p align="center">
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" height="60" alt="MySQL Logo" /></a>
 </p>
 
 #### 🧰 Development Tools  
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=white" />
-  <img src="https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-Command%20Line-FCC624?logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHPStorm-000000?logo=phpstorm&logoColor=white" />
+<p align="center">
+  <a href="https://git-scm.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" height="60" alt="Git Logo" /></a>
+  <a href="https://github.com/" target="_blank"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="60" alt="GitHub Logo" /></a>
+  <a href="https://about.gitlab.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/GitLab_logo.svg" height="60" alt="GitLab Logo" /></a>
+  <a href="https://getcomposer.org/" target="_blank"><img src="https://getcomposer.org/img/logo-composer-transparent.png" height="60" alt="Composer Logo" /></a>
+  <a href="https://www.npmjs.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" height="60" alt="NPM Logo" /></a>
+  <a href="https://www.postman.com/" target="_blank"><img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" height="60" alt="Postman Logo" /></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" height="60" alt="Linux Logo" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="60" alt="VSCode Logo" /></a>
+  <a href="https://www.jetbrains.com/phpstorm/" target="_blank"><img src="https://resources.jetbrains.com/storage/products/phpstorm/img/meta/phpstorm_logo_300x300.png" height="60" alt="PHPStorm Logo" /></a>
 </p>
 
 ---
