@@ -66,5 +66,4 @@ I enjoy turning complex problems into clean, maintainable solutions.
   <a href="https://www.jetbrains.com/phpstorm/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" style="height:50px; width:50px; margin:10px;" alt="PHPStorm Logo"/></a>&nbsp;&nbsp;&nbsp;
 </p>
 
----
 </div>
