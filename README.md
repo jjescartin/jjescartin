@@ -11,6 +11,7 @@ I enjoy turning complex problems into clean, maintainable solutions.
 
 ### 🛠 Skills & Technologies  
 
+<hr>
 #### 📝 Programming Languages  
 <p align="center">
     <a href="https://www.php.net/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="height:50px; width:50px; margin:10px;" alt="PHP Logo"/></a>
