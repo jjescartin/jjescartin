@@ -12,7 +12,7 @@ I enjoy turning complex problems into clean, maintainable solutions.
 ### 🛠 Skills & Technologies  
 
 #### 📝 Programming Languages  
-<p align="center"> 
+<p align="left"> 
   <a href="https://www.php.net/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="height:50px; width:50px; margin:30px;" alt="PHP Logo"/></a> 
   &nbsp;&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height:50px; width:50px; margin:10px;" alt="JavaScript Logo"/></a> 
@@ -25,7 +25,7 @@ I enjoy turning complex problems into clean, maintainable solutions.
 
 
 #### 🎨 Markup & Styling  
-<p align="center">
+<p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height:50px; width:50px; margin:10px;" alt="HTML5 Logo"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height:50px; width:50px; margin:10px;" alt="CSS3 Logo"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="height:50px; width:50px; margin:10px;" alt="Tailwind Logo"/></a>&nbsp;&nbsp;&nbsp;
@@ -33,7 +33,7 @@ I enjoy turning complex problems into clean, maintainable solutions.
 </p>
 
 #### ⚙️ Backend Frameworks & Tools  
-<p align="center">
+<p align="left">
   <a href="https://laravel.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" style="height:50px; width:50px; margin:10px;" alt="Laravel Logo"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://codeigniter.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" style="height:50px; width:50px; margin:10px;" alt="CodeIgniter Logo"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="height:50px; width:50px; margin:10px;" alt="Spring Boot Logo"/></a>&nbsp;&nbsp;&nbsp;
@@ -41,7 +41,7 @@ I enjoy turning complex problems into clean, maintainable solutions.
 </p>
 
 #### 🎨 Frontend Libraries & Tools  
-<p align="center">
+<p align="left">
   <a href="https://react.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height:50px; width:50px; margin:10px;" alt="React Logo"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://jquery.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" style="height:50px; width:50px; margin:10px;" alt="jQuery Logo"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" style="height:50px; width:50px; margin:10px;" alt="AJAX Logo"/></a>&nbsp;&nbsp;&nbsp;
@@ -49,12 +49,12 @@ I enjoy turning complex problems into clean, maintainable solutions.
 </p>
 
 #### 🗄️ Databases  
-<p align="center">
+<p align="left">
   <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="height:50px; width:50px; margin:10px;" alt="MySQL Logo"/></a>
 </p>
 
 #### 🧰 Development Tools  
-<p align="center">
+<p align="left">
   <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="height:50px; width:50px; margin:10px;" alt="Git Logo"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="height:50px; width:50px; margin:10px;" alt="GitHub Logo"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://about.gitlab.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" style="height:50px; width:50px; margin:10px;" alt="GitLab Logo"/></a>&nbsp;&nbsp;&nbsp;
