@@ -25,7 +25,7 @@ I enjoy turning complex problems into clean, maintainable solutions.
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height:60px; width:60px; margin:10px;" alt="HTML5 Logo"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height:60px; width:60px; margin:10px;" alt="CSS3 Logo"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" style="height:60px; width:60px; margin:10px; object-fit:contain;" alt="AJAX Logo"/> </a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="height:60px; width:60px; margin:10px;" alt="Tailwind Logo"/></a>
   <a href="https://getbootstrap.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="height:60px; width:60px; margin:10px;" alt="Bootstrap Logo"/></a>
 </p>
 
