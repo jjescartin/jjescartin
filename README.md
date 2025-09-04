@@ -12,32 +12,13 @@ I enjoy turning complex problems into clean, maintainable solutions.
 ## 🛠 Skills & Technologies  
 
 #### 📝 Programming Languages  
-<p align="center">
-  <a href="https://www.php.net/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" 
-         style="height:50px; width:50px; margin:20px;" alt="PHP Logo"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
-         style="height:50px; width:50px; margin:20px;" alt="JavaScript Logo"/>
-  </a>
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
-         style="height:50px; width:50px; margin:20px;" alt="Java Logo"/>
-  </a>
-  <a href="https://isocpp.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" 
-         style="height:50px; width:50px; margin:20px;" alt="C++ Logo"/>
-  </a>
-  <br/>
-  <a href="https://dotnet.microsoft.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" 
-         style="height:50px; width:50px; margin:20px;" alt=".NET Logo"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
-         style="height:50px; width:50px; margin:20px;" alt="SQL Logo"/>
-  </a>
+<p align="center"> 
+  <a href="https://www.php.net/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="height:50px; width:50px; margin:10px;" alt="PHP Logo"/></a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height:50px; width:50px; margin:10px;" alt="JavaScript Logo"/></a> 
+  <a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="height:50px; width:50px; margin:10px;" alt="Java Logo"/></a> 
+  <a href="https://isocpp.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="height:50px; width:50px; margin:10px;" alt="C++ Logo"/></a> <br/> 
+  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" style="height:50px; width:50px; margin:10px;" alt=".NET Logo"/></a> 
+  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="height:50px; width:50px; margin:10px;" alt="SQL Logo"/></a> 
 </p>
 
 
