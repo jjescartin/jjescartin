@@ -71,7 +71,7 @@ I enjoy turning complex problems into clean, maintainable solutions.
 
 #### Ongoing Demo Project
 **Project Name:** ESCend
-**Description:** A web app to track daily tasks and productivity.  
-**Status:** 🚧 In progress  ( Auth feature [DONE], dashboard )
-**Tech Stack:** PHP, Laravel, ReactJS, MySql
+**Description:** A web app to track daily tasks and productivity.  <br\>
+**Status:** 🚧 In progress  ( Auth feature [DONE], dashboard ) <br\>
+**Tech Stack:** PHP, Laravel, ReactJS, MySql <br\>
 [GitHub Repository](https://github.com/jjescartin/ESCend)
