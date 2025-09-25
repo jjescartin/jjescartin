@@ -1,4 +1,3 @@
-<div align="left">
 
 # 👋 Hi, I'm Allen  
 
@@ -67,3 +66,5 @@ I enjoy turning complex problems into clean, maintainable solutions.
 </p>
 
 </div>
+
+### 
